@@ -10,7 +10,7 @@ The two verbs love and adore - the words marked in green are more often used wit
 
 <h2>  Ngrams </h2>
 Task 1
-<a> HW-6/29831489_2039557696059804_1308621603_o.jpg </a>
+<img scr=> HW-6/29831489_2039557696059804_1308621603_o.jpg </img src>
 Task 2
 <a> HW-6/29883881_2039557629393144_1677485174_o.jpg </a>
 
