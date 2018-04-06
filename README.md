@@ -11,6 +11,7 @@ The two verbs love and adore - the words marked in green are more often used wit
 Task 1
 
 Task 2
+ HW-6/29883881_2039557629393144_1677485174_o.jpg
 
 Task 3
  <a> https://github.com/Sagarika26/HW-6/blob/master/ssubway.jpg </a>
