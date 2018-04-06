@@ -13,6 +13,6 @@ Task 1
 Task 2
 
 Task 3
-
+ <a> https://github.com/Sagarika26/HW-6/blob/master/ssubway.jpg </a>
 Here we see four curves, it shows that the word subway is more frequently used in American English than its synontm metro whearas it is the opposite in British English - the word metro is more frequently used.
 
