@@ -2,16 +2,17 @@
 
 <h2> SketchEngine </h2>
 Task1
-
+  <a> HW-6/29884451_2039568429392064_524189040_o.jpg </a>
 Task 2
-
+ <a> HW-6/29883881_2039557629393144_1677485174_o.jpg </a>
+ <a> HW-6/29830800_2039568476058726_1224481778_o.jpg </a>
 The two verbs love and adore - the words marked in green are more often used with love - for example someone, anyone. The words marked with red are mostly used with adore for example the words "crowd" and Circle"". a few words that are marked with white can be used for both the verbs for example "wife", father.
 
 <h2>  Ngrams </h2>
 Task 1
-
+<a> HW-6/29831489_2039557696059804_1308621603_o.jpg </a>
 Task 2
- HW-6/29883881_2039557629393144_1677485174_o.jpg
+<a> HW-6/29883881_2039557629393144_1677485174_o.jpg </a>
 
 Task 3
  <a> https://github.com/Sagarika26/HW-6/blob/master/ssubway.jpg </a>
