@@ -3,6 +3,8 @@
 <h2> SketchEngine </h2>
  <h3> Task1 </h3>
   <a> https://github.com/Sagarika26/HW-6/blob/master/29884451_2039568429392064_524189040_o.jpg </a>
+  
+  Here we see the different modifiers of the noun "question". The most common modifier is "diificult".
 <h3> Task 2 </h3>
  <a> https://github.com/Sagarika26/HW-6/blob/master/29830800_2039568476058726_1224481778_o.jpg </a>
  <a> https://github.com/Sagarika26/HW-6/blob/master/29893410_2039568509392056_1550926136_o.jpg  </a>
